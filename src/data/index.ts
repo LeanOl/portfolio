@@ -1,6 +1,6 @@
 import { Project, SkillCategory } from "@/types";
 
-export const mockProjects: Project[] = [
+export const projects: Project[] = [
   {
     id: "ecommerce",
     title: {
@@ -30,7 +30,7 @@ export const mockProjects: Project[] = [
   }
 ];
 
-export const mockSkills: SkillCategory[] = [ 
+export const skills: SkillCategory[] = [ 
   {
     id: "languages",
     category: "frontend",
