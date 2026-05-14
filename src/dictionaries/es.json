@@ -1,0 +1,26 @@
+{
+  "nav": {
+    "about": "Sobre mí",
+    "projects": "Proyectos",
+    "stack": "Tecnologías"
+  },
+  "about": {
+    "name": "Leandro Olmedo",
+    "role": "Desarrollador de Software Fullstack",
+    "studies": "Ingeniería en sistemas - Universidad ORT Uruguay (2021-Actualidad)",
+    "description": "Soy Leandro Olmedo, un estudiante de 23 años avanzado de Ingeniería de Sistemas con experiencia práctica en desarrollo full-stack.\n\nMe especializo en construir aplicaciones web escalables utilizando .NET, Java y frameworks modernos de JavaScript.\n\nCon una sólida base en bases de datos, APIs RESTful y plataformas en la nube como Azure y Docker, me enfoco en entregar código limpio y mantenible aplicando metodologías ágiles.",
+    "linkedin": "LinkedIn",
+    "github": "GitHub"
+  },
+  "projects": {
+    "title": "Proyectos",
+    "demo": "Demo en Vivo",
+    "repo": "Repositorio"
+  },
+  "stack": {
+    "title": "Tecnologías",
+    "frontend": "Frontend",
+    "backend": "Backend",
+    "tools": "Herramientas"
+  }
+}
