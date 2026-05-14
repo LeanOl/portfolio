@@ -47,7 +47,7 @@ export const AboutSection = () => {
         </div>
 
         <div className="bg-card-bg/50 p-10 md:p-12 rounded-3xl border border-white/5 shadow-lg">
-          <div className="text-foreground/80 leading-relaxed text-xl md:text-2xl flex flex-col gap-8">
+          <div className="text-foreground/80 leading-relaxed text-lg md:text-xl flex flex-col gap-8">
             {dict.about.description.split('\n\n').map((paragraph: string, index: number) => (
               <p key={index}>{paragraph}</p>
             ))}
